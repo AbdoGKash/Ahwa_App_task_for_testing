@@ -131,8 +131,8 @@ final reportGeneratorProvider = Provider<IReportGenerator>((ref) {
 
 # 🎨 UI 
 
-<img src="https://github.com/user-attachments/assets/9e9ddd47-9c97-437b-8c09-110b7dd7f16a" width="200">
-<img src="https://github.com/user-attachments/assets/63222b20-24de-44ef-8bd7-258b39a8f723" width="200">
-<img src="https://github.com/user-attachments/assets/feeca8f9-a836-4116-a458-91b0a098d753" width="200">
-<img src="https://github.com/user-attachments/assets/23d98d8d-38a1-41b6-9e63-5d3903c50a4b" width="200">
+<img src="https://github.com/user-attachments/assets/f45f806d-415e-4a6b-a5d0-7d141e5d2919" width="200">
+<img src="https://github.com/user-attachments/assets/2f45e486-d6d5-4790-bc3d-9d8e081c3f77" width="200">
+<img src="https://github.com/user-attachments/assets/38056268-adfe-455c-ace7-3e76e2b70a0c" width="200">
+<img src="https://github.com/user-attachments/assets/ab5c13ea-971b-4f68-bbf8-906011bfd432" width="200">
 
